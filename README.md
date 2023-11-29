@@ -9,7 +9,7 @@ This report presents a comprehensive analysis of five key projects undertaken by
 ### Objective:
 Evaluate risk and return for pricing decisions, sales/marketing investments, and strategic initiatives.
 
-### Detailed Explanation:
+### Details:
 - **Metrics:**
   - **Risk:** The potential variability in outcomes associated with pricing decisions, sales/marketing investments, and strategic initiatives.
   - **Return:** The potential gains or losses from pricing decisions, sales/marketing investments, and strategic initiatives.
@@ -21,7 +21,7 @@ Evaluate risk and return for pricing decisions, sales/marketing investments, and
 ### Objective:
 Forecast revenue, evaluate cost components, and analyze profitability.
 
-### Detailed Explanation:
+### Details:
 - **Metrics:**
   - **Revenue Projection:** The anticipated income from sales, considering market demand and pricing strategies.
   - **Cost Breakdown (COGS vs OPEX vs CapEx):**
@@ -37,7 +37,7 @@ Forecast revenue, evaluate cost components, and analyze profitability.
 ### Objective:
 Evaluate potential business development opportunities, assess risk and return, and analyze financial impact.
 
-### Detailed Explanation:
+### Details:
 - **Metrics:**
   - **Profitability:** The potential profit generated from a business development opportunity.
   - **Adjusted Revenue:** The estimated revenue considering potential adjustments.
@@ -50,7 +50,7 @@ Evaluate potential business development opportunities, assess risk and return, a
 ### Objective:
 Assess the financial viability of capital projects and analyze net and cumulative cash flow.
 
-### Detailed Explanation:
+### Details:
 - **Metrics:**
   - **Net Cash Flow:** The difference between cash inflows and outflows for a specific period.
   - **Cumulative Cash Flow:** The running total of net cash flow over time.
@@ -63,7 +63,7 @@ Assess the financial viability of capital projects and analyze net and cumulativ
 ### Objective:
 Analyze pricing trends, assess win-loss ratios, and evaluate sales volume.
 
-### Detailed Explanation:
+### Details:
 - **Metrics:**
   - **Average Price:** The mean price of products or services over a specific period.
   - **Win-Loss Ratio:** The ratio of won opportunities to lost opportunities.
